@@ -13,7 +13,7 @@
     }
   ],
   "EULA": "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
-  "version": "1.0.0.0",
+  "version": "2.0.0.0",
   "privacyStatement": "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
   "description": "Hello World sample app for AppSource",
   "url": "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
