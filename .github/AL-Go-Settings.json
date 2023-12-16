@@ -1,0 +1,9 @@
+{
+  "shell": "pwsh",
+  "type": "AppSource App",
+  "useCompilerFolder": false,
+  "MicrosoftTelemetryConnectionString": "",
+  "doNotPublishApps": false,
+  "templateUrl": "https://github.com/businesscentralapps/tmp25dIle-AppSource@main",
+  "runs-on": "ubuntu-latest"
+}
